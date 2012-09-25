@@ -5,9 +5,9 @@ template <typename T>
 struct QuaternionT {
     T x;
     T y;
-    T z;
+    T z; 
     T w;
-     
+      
     QuaternionT();
     QuaternionT(T x, T y, T z, T w);
     //插值
