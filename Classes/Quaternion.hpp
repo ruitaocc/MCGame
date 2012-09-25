@@ -7,7 +7,7 @@ struct QuaternionT {
     T y;
     T z;
     T w;
-    
+     
     QuaternionT();
     QuaternionT(T x, T y, T z, T w);
     //插值
