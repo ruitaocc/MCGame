@@ -1,0 +1,1 @@
+This a project that simulate the Rubik's Cube on iPad.
